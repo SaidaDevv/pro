@@ -1,0 +1,59 @@
+p{
+
+text-align: center;
+
+
+
+color: rgb(231, 115, 20);
+
+
+letter-spacing: 10px;
+
+word-spacing: 16px;
+
+text-align: left;
+
+text-decoration: line-through;
+ 
+text-transform: capitalize;
+
+text-indent: 90px;
+
+
+background-color: blueviolet;
+
+}
+
+a{
+
+
+text-decoration: none;
+
+
+}
+
+
+
+
+body {
+
+background-color: rgb(238, 224, 224);
+
+
+
+}
+
+
+h5 {
+
+
+
+width: 500px;
+height: 200px;
+border: 1px solid black;
+box-shadow: 5px 10px;
+ border: 10px dotted;
+
+}
+
+}
